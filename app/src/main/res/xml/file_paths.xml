@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path
+        name="images"
+        path="images/" />
+    <!-- Used only when the device has no external volume mounted. -->
+    <files-path
+        name="internal_images"
+        path="images/" />
+</paths>
